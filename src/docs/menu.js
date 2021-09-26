@@ -74,6 +74,10 @@ export const MENU = [
         'preferences'
     ),
     M(
+        'Message Service',
+        'message_service'
+    ),
+    M(
         'Events',
         'events'
     ),
